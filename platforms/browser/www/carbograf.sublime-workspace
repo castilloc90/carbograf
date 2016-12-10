@@ -1,0 +1,1358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"query",
+				"queryHistorial"
+			],
+			[
+				"total",
+				"total_abonado"
+			],
+			[
+				"histo",
+				"historial_abonos"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"sql",
+				"sqlRegistroAbonos"
+			],
+			[
+				"id_",
+				"id_empresa"
+			],
+			[
+				"can",
+				"cantidadAbonos"
+			],
+			[
+				"_",
+				"_REQUEST"
+			],
+			[
+				"longitud",
+				"longitudGuardada"
+			],
+			[
+				"longi",
+				"longitude"
+			],
+			[
+				"info",
+				"infoWindow"
+			],
+			[
+				"latitud",
+				"latitudGuardada"
+			],
+			[
+				"lati",
+				"latitudLongitud"
+			],
+			[
+				"arreglo",
+				"arregloLatidudes"
+			],
+			[
+				"posi",
+				"posicionGuardada"
+			],
+			[
+				"ar",
+				"arregloLatidudes"
+			],
+			[
+				"arre",
+				"arregloLongitudes"
+			],
+			[
+				"cantidad",
+				"cantidadUbicaciones"
+			],
+			[
+				"ubicaci",
+				"ubicacion_clientes"
+			],
+			[
+				"c",
+				"coordenadas"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"CAN",
+				"cantidadRegistros"
+			],
+			[
+				"ubica",
+				"ubicacion_clientes"
+			],
+			[
+				"id",
+				"idpaciente"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"sucursal",
+				"sucursal_usuario"
+			],
+			[
+				"sucursa",
+				"sucursal_usuario"
+			],
+			[
+				"nombrE",
+				"nombre_usuario"
+			],
+			[
+				"sq",
+				"sqlUsuario"
+			],
+			[
+				"div-",
+				"div-cantidad-aprobada"
+			],
+			[
+				"queryN",
+				"queryNotaPedido"
+			],
+			[
+				"parse",
+				"parseJSON"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_array"
+			],
+			[
+				"inicio",
+				"inicio-compatibilidad"
+			],
+			[
+				"uft",
+				"utf8_encode"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"utf8_",
+				"utf8_encode"
+			],
+			[
+				"idC",
+				"idCondicionPago"
+			],
+			[
+				"contribu",
+				"contribuyenteEspecial"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"ERROR_",
+				"error_reporting"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"presentacion_prod",
+				"presentacion_productos_datos"
+			],
+			[
+				"select",
+				"selectpicker"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Applications/MAMP/htdocs/GMapExample/www/index.html",
+			"settings":
+			{
+				"buffer_size": 3199,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11355,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/carbograf2911:2016/www/index.html",
+			"settings":
+			{
+				"buffer_size": 11437,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"boxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"",
+				"Boxy Theme: Activation"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"pag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/carbograf/www",
+		"/Applications/MAMP/htdocs/GMapExample/www"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/carbograf/config.xml",
+		"/Applications/MAMP/htdocs/carbograf2911:2016/www/index.html",
+		"/Applications/MAMP/htdocs/carbograf2911:2016/www/phonegap.js",
+		"/Applications/MAMP/htdocs/carbograf/www/js/index.js",
+		"/Applications/MAMP/htdocs/carbograf2911:2016/README.md",
+		"/Applications/MAMP/htdocs/carbograf2911:2016/www/js/index.js",
+		"/Applications/MAMP/htdocs/GMapExample/www/index.html",
+		"/Applications/MAMP/htdocs/carbograf/www/phonegap.js",
+		"/Applications/MAMP/htdocs/GMapExample/plugins/fetch.json",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/pacientes/abonos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/pacientes/abonos_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/ingreso_productos_datos.php",
+		"/Applications/MAMP/htdocs/GMapExample/www/js/index.js",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/grupo_gastos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/ingreso_productos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/gastos_datos.php",
+		"/Applications/MAMP/htdocs/carbograf/www/index.html",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/pacientes/pacientes.php",
+		"/Applications/MAMP/htdocs/carbograf/www/js/jquery.ui.map.js",
+		"/Applications/MAMP/htdocs/carbograf/platforms/browser/www/css/index.css",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/funcionesphp/seguridad.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/funcionesphp/funciones_form.php",
+		"/Users/alf.castillo90/Documents/desarrollos/comercialDev/funcionesphp/conex.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/cafetin/facturar_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/comercialDev/sftp-config.json",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/sftp-config.json",
+		"/Users/alf.castillo90/Downloads/manufactura.sql",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/grupo_data.php",
+		"/Users/alf.castillo90/Documents/desarrollos/comercialDev/funcionesphp/seguridad.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/mantenimiento/error_log",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/pacientes/pacientes_data.php",
+		"/Applications/MAMP/htdocs/crud-POO/geolocation.html",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/index.php",
+		"/Applications/MAMP/htdocs/crud-POO/prueba.html",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/funcionesphp/server.php",
+		"/Users/alf.castillo90/Documents/desarrollos/soloE/inventario/r_inventario.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/funcionesphp/funciones.php",
+		"/Users/alf.castillo90/Documents/desarrollos/soloE/inventario/r_inventario_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/r_inventario.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/r_inventario_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/soloE/inventario/ingreso_productos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/soloE/inventario/ingreso_productos_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/cotizaciones/carga_cotizaciones.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/verifica.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/movimiento_almacen.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/movimiento_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/imprime_mov_almacen.php",
+		"/Users/alf.castillo90/Documents/desarrollos/soloE/sftp-config.json",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/movimiento_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/movimiento_almacen.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/entrega_pedido_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/entrega_pedido.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/pedido_interno.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/pedido_interno_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/almacen_data.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/config_categorias_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/config_categorias.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/includes/crear_empresa.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/servicio_tecnico/serv_tecnico_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/mantenimiento/sucursales_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/almacen.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/sftp.json",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/ftp.json",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/entrega_pedido_datos 2.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/entrega_pedido 2.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/cotizaciones/carga_cotizaciones_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/querys/nota_pedido.sql",
+		"/Users/alf.castillo90/Documents/desarrollos/querys/nota_pedido_prod.sql",
+		"/Users/alf.castillo90/Documents/desarrollos/querys/nota_pedido_codigo.sql",
+		"/Users/alf.castillo90/Documents/desarrollos/querys/nota_entrega.sql",
+		"/Users/alf.castillo90/Documents/desarrollos/querys/nota_entrega_prod.sql",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/ingreso_productos_datos 2.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/ingreso_productos 2.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/ingreso_productos_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/ingreso_productos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/cotizaciones/emision.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/cotizaciones/emision_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/emision_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/emision.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/consumos/carga_consumos_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/emision_datos 2.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/carga_cotizaciones_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/carga_cotizaciones.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/js/funciones.js",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/mantenimiento/programas_sistema_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/mantenimiento/programas_sistema.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/modelos_datos.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/mantenimiento/modulos_sistema.php",
+		"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev/inventario/productos_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/productos_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/act_productos_datos.php",
+		"/Users/alf.castillo90/Downloads/manufactura/inventario/productos.php",
+		"/Users/alf.castillo90/Downloads/manufactura/includes/menu.php",
+		"/Users/alf.castillo90/Downloads/manufactura/index.php",
+		"/Users/alf.castillo90/Downloads/manufactura/funcionesphp/funciones_form.php",
+		"/Users/alf.castillo90/Downloads/manufactura/js/funciones.js",
+		"/Users/alf.castillo90/Downloads/manufactura/inventario/ingreso_productos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/pedido_interno.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/pedido_interno_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/serv_tecnico_datos.php",
+		"/Users/alf.castillo90/Downloads/manufactura/servicio_tecnico/serv_tecnico_datos.php",
+		"/Users/alf.castillo90/Public/sadmin/facturacion/facturar_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/facturar_datos.php",
+		"/Users/alf.castillo90/Public/sadmin/verifica.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/verifica.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/act_productos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/facturar_js.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/facturar_modal.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/facturar.php",
+		"/Users/alf.castillo90/Downloads/manufactura/inventario/ingreso_productos_datos.php",
+		"/Users/alf.castillo90/Downloads/manufactura/verifica.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/pacientes.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/index.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-2/pacientes_data.php",
+		"/Users/alf.castillo90/Downloads/manufactura/pacientes/pacientes_data.php",
+		"/Users/alf.castillo90/Downloads/manufactura/mantenimiento/condiciones_pago.php",
+		"/Users/alf.castillo90/Downloads/manufactura/mantenimiento/condiciones_pago_datos.php",
+		"/Users/alf.castillo90/Downloads/manufactura/inventario/almacen.php",
+		"/Users/alf.castillo90/Downloads/manufactura/inventario/grupo_gastos.php",
+		"/Users/alf.castillo90/Downloads/manufactura/inventario/grupo_data.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-3/facturar_datos.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-3/facturar_modal.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-3/facturar_js.php",
+		"/private/var/folders/rl/pw3fb_1s32l4tz_qzvpbsbtw0000gp/T/fz3temp-3/facturar.php",
+		"/Applications/MAMP/htdocs/sadmin/facturacion/facturar_datos.php",
+		"/Users/alf.castillo90/Downloads/manufactura/facturacion/facturar.php",
+		"/Users/alf.castillo90/Downloads/manufactura/facturacion/facturar_datos.php",
+		"/Users/alf.castillo90/Downloads/manufactura/facturacion/facturar_datos_respaldo.php"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/carbograf/www",
+			"/Applications/MAMP/htdocs/carbograf",
+			"/Users/alf.castillo90/Documents/desarrollos/soloE",
+			"/Users/alf.castillo90/Documents/desarrollos/manufacturaDev",
+			"/Users/alf.castillo90/Downloads/manufactura",
+			"/Users/alf.castillo90/Downloads/manufactura/funcionesphp",
+			"/Users/alf.castillo90/Public/sadmin",
+			"/Users/alf.castillo90/Downloads/manufactura",
+			"/Applications/MAMP/htdocs/manufactura",
+			"/Applications/MAMP/htdocs/sadmin",
+			"",
+			"/Applications/MAMP/htdocs/ofuscador",
+			"/Users/alf.castillo90/Downloads/manufactura",
+			"/Applications/MAMP/htdocs/crud_cifrado",
+			"/Users/alf.castillo90/Downloads/manufactura/",
+			"/Users/alf.castillo90/Downloads/manufactura/compras",
+			"/Users/alf.castillo90/Downloads/playparley"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"map",
+			"map-canvas",
+			"       \t<",
+			"cordova.js",
+			"php",
+			"ubicanos",
+			"Carbofrad",
+			"historial-abonos-cliente",
+			"ajax",
+			"historial-",
+			"){\n",
+			"'];\n",
+			"abono-",
+			"json_encode",
+			"PARSE",
+			"JSON",
+			"PARSE",
+			"modal-historial",
+			"verhistorialabonos",
+			"abonoCLiente",
+			"abonosCLiente",
+			"abonosCLientes",
+			"historialAbonos",
+			"mysmalLMODALLABEL",
+			"modal-abonos-clientes",
+			"map",
+			"google maps",
+			"cmap",
+			"map",
+			"latitud",
+			"POSICIONGUARDADA",
+			"POSICIONGUARDAD",
+			"</form",
+			"borrar",
+			"eliminar",
+			"eliminarabonos",
+			"eliminarAbonos",
+			"consultar(\"",
+			"consultar(",
+			"consultar()",
+			"estatus",
+			"comentario",
+			"comentarios",
+			"cliente",
+			"or die",
+			"or die(\"",
+			"or die",
+			"guardarAbono",
+			"guardar()",
+			"guardar",
+			"\\n\\t\\t\\t",
+			"\\n\\t\\t\\t\\",
+			"1",
+			"input_text",
+			"filnombre",
+			"consultarAbono",
+			"consultar",
+			"consultarAbono",
+			"filnombre",
+			"idEmpresa",
+			"filestatus",
+			"condicion",
+			"condicion de pago",
+			"condicion",
+			"Estatus",
+			"$enlace",
+			"consultar",
+			"condicion",
+			"filnombre",
+			"mantenimiento",
+			"mantenimiento/condiciones_pago_datos",
+			"mantenimiento/",
+			"condicionPago",
+			"initmap(",
+			"initmap",
+			"initMap",
+			"latitud",
+			") ",
+			"contribuyente-especial",
+			"guardar()",
+			"ubicacion",
+			"$idpaciente",
+			"modPaciente",
+			"$id_Empresa",
+			"marker.",
+			"initmap",
+			"display:none",
+			">\n",
+			"map",
+			"ubicaci&a",
+			"mapa",
+			"modal-map",
+			"KEY",
+			"initMap",
+			"modal-map",
+			"modal",
+			"modal-map",
+			"maps",
+			"modal",
+			"initialize",
+			"style",
+			"id=\"map\"",
+			"div_seguro",
+			"muestraSeguro",
+			"div_seguro",
+			"condicion_pago",
+			"condicionPago",
+			"initMap",
+			"bsPRod",
+			"busent",
+			"));",
+			"guardar()",
+			"image",
+			"form",
+			"im1",
+			"\"im1\"",
+			"image",
+			"subForm",
+			"uploadImage",
+			"image",
+			"guardar()",
+			"<?",
+			"exportar()",
+			"function exportar()",
+			"id_empresa",
+			"idEmpresa",
+			"?>",
+			"almacen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"comentario",
+			" ",
+			"",
+			"abono de cliente",
+			"pacientes/abonos_datos",
+			"abonosClientes",
+			"$idPaciente",
+			"$idEmpresa",
+			"idProd",
+			"fechaEntrega",
+			"#id-sucursal",
+			"$idEmpresa",
+			"buscaDatosProd",
+			"cod_producto_modal",
+			"'#save-prod'",
+			"divSubCat",
+			"`ubicacionpaisid`",
+			"datos",
+			"condiciones_pago_data",
+			"idCondicionPago",
+			"CondicionPago",
+			"condiciones de pago",
+			"CondicionPago",
+			"modal-Condicion-Pago",
+			"condicion de pago",
+			"idcondicionpago",
+			"condicion de pago",
+			"La condicion de pago",
+			"$condicionPago",
+			"mantenimiento/condicion_pago_data.php",
+			"",
+			"<?php "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Applications/MAMP/htdocs/carbograf"
+		},
+		{
+			"path": "/Applications/MAMP/htdocs/GMapExample"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Applications/MAMP/htdocs/GMapExample/www/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1128,
+								1128
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Yesterday.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 354.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8621,
+								8621
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										8629,
+										8632
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										8547,
+										8550
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Yesterday.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2878.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Applications/MAMP/htdocs/carbograf2911:2016/www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2683,
+								2981
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2920,
+										2924
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2920,
+										2924
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Yesterday.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 352.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 94.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 46.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"carbograf/config.xml"
+			],
+			[
+				"index.html",
+				"carbograf/www/index.html"
+			],
+			[
+				"index",
+				"carbograf/www/js/index.js"
+			],
+			[
+				"grupo",
+				"manufacturaDev/inventario/grupo_gastos.php"
+			],
+			[
+				"ingreso",
+				"manufacturaDev/inventario/ingreso_productos.php"
+			],
+			[
+				"ingreso_productos",
+				"manufacturaDev/inventario/ingreso_productos_datos.php"
+			],
+			[
+				"gasto",
+				"manufacturaDev/inventario/gastos_datos.php"
+			],
+			[
+				"abonos",
+				"manufacturaDev/pacientes/abonos_datos.php"
+			],
+			[
+				"pacientes",
+				"manufacturaDev/pacientes/pacientes.php"
+			],
+			[
+				"facturar_datps",
+				"manufacturaDev/cafetin/facturar_datos.php"
+			],
+			[
+				"conex",
+				"comercialDev/funcionesphp/conex.php"
+			],
+			[
+				"funciones_form",
+				"manufacturaDev/funcionesphp/funciones_form.php"
+			],
+			[
+				"seguridad",
+				"manufacturaDev/funcionesphp/seguridad.php"
+			],
+			[
+				"abonos.php",
+				"manufacturaDev/pacientes/abonos.php"
+			],
+			[
+				"abonos_datos",
+				"manufacturaDev/pacientes/abonos_datos.php"
+			],
+			[
+				"grupo_gastos",
+				"manufacturaDev/inventario/grupo_gastos.php"
+			],
+			[
+				"ingreso_prodc",
+				"manufacturaDev/inventario/ingreso_productos_datos.php"
+			],
+			[
+				"pacientes_dat",
+				"manufacturaDev/pacientes/pacientes_data.php"
+			],
+			[
+				"pacien",
+				"manufacturaDev/pacientes/pacientes_data.php"
+			],
+			[
+				"paientes",
+				"manufacturaDev/pacientes/pacientes.php"
+			],
+			[
+				"server",
+				"manufacturaDev/funcionesphp/server.php"
+			],
+			[
+				"ingreso_productos_datos",
+				"manufacturaDev/inventario/ingreso_productos_datos.php"
+			],
+			[
+				"ingreso_prod",
+				"soloE/inventario/ingreso_productos.php"
+			],
+			[
+				"funciones",
+				"manufacturaDev/funcionesphp/funciones.php"
+			],
+			[
+				"r_inventario_",
+				"soloE/inventario/r_inventario_datos.php"
+			],
+			[
+				"r_inventario",
+				"manufacturaDev/inventario/r_inventario.php"
+			],
+			[
+				"ingreso_",
+				"manufacturaDev/inventario/ingreso_productos.php"
+			],
+			[
+				"funciones_",
+				"manufacturaDev/funcionesphp/funciones_form.php"
+			],
+			[
+				"ingreso_pro",
+				"manufacturaDev/inventario/ingreso_productos_datos.php"
+			],
+			[
+				"sftp",
+				"manufacturaDev/sftp-config.json"
+			],
+			[
+				"ingreso_productos.php",
+				"soloE/inventario/ingreso_productos.php"
+			],
+			[
+				"s",
+				"manufacturaDev/sftp-config.json"
+			],
+			[
+				"verifica",
+				"verifica.php"
+			],
+			[
+				"imprime_m",
+				"inventario/imprime_mov_almacen.php"
+			],
+			[
+				"movimiento_dat",
+				"inventario/movimiento_datos.php"
+			],
+			[
+				"movimiento_datos",
+				"inventario/movimiento_datos.php"
+			],
+			[
+				"entrega_pedido_",
+				"inventario/entrega_pedido_datos.php"
+			],
+			[
+				"entrega",
+				"inventario/entrega_pedido.php"
+			],
+			[
+				"pedido_",
+				"inventario/pedido_interno_datos.php"
+			],
+			[
+				"pedido",
+				"inventario/pedido_interno.php"
+			],
+			[
+				"entrada_",
+				"inventario/entrega_pedido_datos.php"
+			],
+			[
+				"almacen_data",
+				"inventario/almacen_data.php"
+			],
+			[
+				"pedido_interno",
+				"inventario/pedido_interno_datos.php"
+			],
+			[
+				"ingreso_produ",
+				"inventario/ingreso_productos.php"
+			],
+			[
+				"config_",
+				"inventario/config_categorias_datos.php"
+			],
+			[
+				"config",
+				"inventario/config_categorias.php"
+			],
+			[
+				"almacen_da",
+				"inventario/almacen_data.php"
+			],
+			[
+				"ingreso_p",
+				"inventario/ingreso_productos_datos.php"
+			],
+			[
+				"servicio_tecnico_dat",
+				"servicio_tecnico/serv_tecnico_datos.php"
+			],
+			[
+				"pedidos",
+				"inventario/pedido_interno_datos.php"
+			],
+			[
+				"verifi",
+				"verifica.php"
+			],
+			[
+				"sucursales",
+				"mantenimiento/sucursales_datos.php"
+			],
+			[
+				"pedido_i",
+				"inventario/pedido_interno.php"
+			],
+			[
+				"entrega_pedido",
+				"inventario/entrega_pedido_datos.php"
+			],
+			[
+				"carga_cotizaciones",
+				"cotizaciones/carga_cotizaciones.php"
+			],
+			[
+				"carga_cotiza",
+				"cotizaciones/carga_cotizaciones_datos.php"
+			],
+			[
+				"emision_datos",
+				"cotizaciones/emision_datos.php"
+			],
+			[
+				"emision",
+				"cotizaciones/emision.php"
+			],
+			[
+				"ingre",
+				"inventario/ingreso_productos.php"
+			],
+			[
+				"cotiz",
+				"cotizaciones/carga_cotizaciones_datos.php"
+			],
+			[
+				"cotizaciones",
+				"cotizaciones/carga_cotizaciones_datos.php"
+			],
+			[
+				"carga_",
+				"consumos/carga_consumos_datos.php"
+			],
+			[
+				"cotizac",
+				"cotizaciones/carga_cotizaciones.php"
+			],
+			[
+				"ingreso_produco",
+				"inventario/ingreso_productos_datos.php"
+			],
+			[
+				"programas",
+				"mantenimiento/programas_sistema_datos.php"
+			],
+			[
+				"mode",
+				"inventario/modelos_datos.php"
+			],
+			[
+				"modulos",
+				"mantenimiento/modulos_sistema.php"
+			],
+			[
+				"ingr",
+				"inventario/ingreso_productos_datos.php"
+			],
+			[
+				"ingres",
+				"inventario/ingreso_productos.php"
+			],
+			[
+				"config_cageto",
+				"inventario/config_categorias_datos.php"
+			],
+			[
+				"ver",
+				"sadmin/verifica.php"
+			],
+			[
+				"verific",
+				"verifica.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
